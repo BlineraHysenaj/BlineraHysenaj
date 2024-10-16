@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Hi-Private",
+    "description": "Hi-private.ch is a virtual safe designed to securely store confidential data. It features three distinct vaults, each dedicated to safeguarding sensitive information. The platform offers advanced encryption and security measures to ensure that personal, financial, and confidential documents are protected, making it a reliable solution for secure data storage.",
+    "tags": ["vuejs", "php", "nuxt", "tailwind"],
+    "demo": "https://hi-private.ch/"
+  },
+  {
+    "id": 2,
+    "name": "Client side address book",
+    "description": "The app allows users to manage their contacts efficiently, providing functionalities to add, edit, and delete contacts.",
+    "tags": ["vuejs", "typescript", "css", "bootstrap"],
+    "demo": "https://github.com/BlineraHysenaj/Client-Side-Address-Book"
+  },
+  {
+    "id": 3,
+    "name": "Homeauctions",
+    "description": "Homeauctions.ch is a real estate platform where users can participate in property auctions or create listings for their own properties.",
+    "tags": ["react", ".net", "manual testing", "cypress"],
+    "demo": "https://homeauctions.ch/"
+  },
+  {
+    "id": 4,
+    "name": "Saucedemo tests",
+    "description": "This project is a test automation suite for the Saucedemo application using Playwright. ",
+    "tags": ["playwright", "POM", "javascript"],
+    "demo": "https://github.com/BlineraHysenaj/SauceDemo_Task"
+  },
+  {
+    "id": 5,
+    "name": "Pristina Traffic View",
+    "description": "This study aims to contribute to improving traffic sustainability in the city of Prishtina by proposing solutions based on graphical data analysis.",
+    "tags": ["react", "javascript", "appexchart", "scss"],
+    "demo": "https://pristinatrafficview.netlify.app/"
+  },
+  {
+    "id": 6,
+    "name": "Mesbonbon's ERP",
+    "description": "Candy shop",
+    "tags": ["react", "next", "tailwind", "typescript"],
+    "demo": "https://homeauctions.ch/"
+  },
+  {
+    "id": 7,
+    "name": "Brick",
+    "description": "A real estate platform",
+    "tags": ["react", "typescript", "scss"],
+    "demo": "https://brick.immo/accueil"
+  }
+]
