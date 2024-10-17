@@ -8,7 +8,6 @@ import { useEffect } from 'react'
 import { useRouter } from 'next/router'
 
 const Layout = ({ children }) => {
-  // set scroll to top of main content on url pathname change
   const router = useRouter()
   useEffect(() => {
     const main = document.getElementById('main-editor')
