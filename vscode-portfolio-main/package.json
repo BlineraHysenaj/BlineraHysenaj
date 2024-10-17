@@ -2,10 +2,14 @@
   "name": "vscode-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://blinerahysenaj.github.io/BlineraHysenaj",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "export": "next export",
+    "start": "next start",
+    "predeploy": "npm run build && npm run export",
+    "deploy": "gh-pages -d out"
   },
   "dependencies": {
     "@notionhq/client": "^0.2.2",
@@ -13,5 +17,8 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-github-calendar": "^3.2.2"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
   }
 }
